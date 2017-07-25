@@ -91,9 +91,9 @@
 		<key>xcode.syntax.comment.doc.keyword</key>
 		<string>0.482353 0.486275 0.521569 1</string>
 		<key>xcode.syntax.identifier.class</key>
-		<string>0.823529 0.247059 0.521569 1</string>
+		<string>1 0.3 0.633334 1</string>
 		<key>xcode.syntax.identifier.class.system</key>
-		<string>0.823529 0.247059 0.521569 1</string>
+		<string>1 0.3 0.633334 1</string>
 		<key>xcode.syntax.identifier.constant</key>
 		<string>1 1 1 1</string>
 		<key>xcode.syntax.identifier.constant.system</key>
@@ -107,9 +107,9 @@
 		<key>xcode.syntax.identifier.macro.system</key>
 		<string>0.786241 0.515886 0.342134 1</string>
 		<key>xcode.syntax.identifier.type</key>
-		<string>0.823529 0.247059 0.521569 1</string>
+		<string>1 0.3 0.633334 1</string>
 		<key>xcode.syntax.identifier.type.system</key>
-		<string>0.823529 0.247059 0.521569 1</string>
+		<string>1 0.3 0.633334 1</string>
 		<key>xcode.syntax.identifier.variable</key>
 		<string>1 1 1 1</string>
 		<key>xcode.syntax.identifier.variable.system</key>
